@@ -77,8 +77,8 @@ A growing platform offering:
 ## 🌍 Connect With Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/selvaklnc)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)]([https://www.linkedin.com/company/wikimintofficial](https://linkedin.com/in/selvakumaran-krishnan))
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter)]([https://twitter.com/wikimint](https://twitter.com/selvakumarankri))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)([https://www.linkedin.com/company/wikimintofficial](https://linkedin.com/in/selvakumaran-krishnan)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter)]([https://twitter.com/wikimint](https://twitter.com/selvakumarankri)
 [![Website](https://img.shields.io/badge/Website-000?style=for-the-badge&logo=google-chrome)](https://www.wikimint.com)
 
 ---
