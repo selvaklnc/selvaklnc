@@ -10,7 +10,7 @@
 
 I'm a **Full Stack Developer, Entrepreneur, Digital Marketing Specialist, and SEO Expert** focused on building scalable tools and resources for developers, marketers, and creators.
 
-- 🔧 Building @wikimint – free developer tools & web utilities  
+- 🔧 Building **[Wikimint](/wikimint)** – free developer tools & web utilities  
 - 📈 Helping businesses grow with **SEO & digital marketing strategies**  
 - ⚡ Passionate about **automation, performance, and optimization**  
 - 💡 Creating tools that simplify workflows and improve productivity  
