@@ -55,6 +55,13 @@ A growing platform offering:
 
 ---
 
+## 📂 More About My Work
+- [Projects](./projects.md)
+- [Resources](./resources.md)
+- [Roadmap](./roadmap.md)
+- [Changelog](./CHANGELOG.md)
+- [Contact](./CONTACT.md)
+
 ## 📂 What I Build
 
 - 🔧 Web tools & developer utilities  
