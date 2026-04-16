@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Selvakumaran Krishnan
+# Selvakumaran Krishnan
 
 ![Profile Views](https://komarev.com/ghpvc/?username=selvaklnc&label=Profile%20Views&color=0e75b6&style=flat)
 ![GitHub followers](https://img.shields.io/github/followers/selvaklnc?label=Followers&style=social)
@@ -6,48 +6,48 @@
 
 ---
 
-## 🚀 About Me
+## About me
 
 I'm a **Full Stack Developer, Entrepreneur, Digital Marketing Specialist, and SEO Expert** focused on building scalable tools and resources for developers, marketers, and creators.
 
-- 🔧 Building **[Wikimint](https://github.com/wikimint)** – free developer tools & web utilities  
-- 📈 Helping businesses grow with **SEO & digital marketing strategies**  
-- ⚡ Passionate about **automation, performance, and optimization**  
-- 💡 Creating tools that simplify workflows and improve productivity  
+- Building **[Wikimint](https://github.com/wikimint)** – free developer tools & web utilities  
+- Helping businesses grow with **SEO & digital marketing strategies**  
+- Passionate about **automation, performance, and optimization**  
+- Creating tools that simplify workflows and improve productivity  
 
 ---
 
-## 🌐 Featured Project
+## Featured Project
 
-### 🔥 WikiMint — Free Developer Tools & Digital Assets
+### Wikimint — Free developer tools & digital assets
 
-![WikiMint Banner](/assets/selvakumaran-krishnan-full-stack-developer.webp)
+![Wikimint Banner](/assets/selvakumaran-krishnan-full-stack-developer.webp)
 
 A growing platform offering:
 
-- 🧰 Developer tools (CSS/JS minifiers, formatters)
-- ⚡ Performance optimization utilities
-- 📊 SEO tools and resources
-- 🤖 AI prompts and automation tools
-- 📦 Digital assets and templates
+- Developer tools (CSS/JS minifiers, formatters)
+- Performance optimization utilities
+- SEO tools and resources
+- AI prompts and automation tools
+- Digital assets and templates
 
 ---
 
-## 💻 Tech Stack
+## Tech stack
 
-### 👨‍💻 Development
+### Development
 - JavaScript (Frontend & Backend)
 - HTML5, CSS3
 - Node.js
 - API Development
 
-### ⚙️ Tools & Expertise
+### Tools & expertise
 - Web Performance Optimization
 - Code Minification & Optimization
 - Automation Scripts
 - Developer Utilities
 
-### 📊 Marketing & SEO
+### Marketing & SEO
 - Search Engine Optimization (SEO)
 - Content Marketing
 - Conversion Optimization
@@ -55,24 +55,24 @@ A growing platform offering:
 
 ---
 
-## 📂 More About My Work
+## More about my work
 - [Projects](./projects.md)
 - [Resources](./resources.md)
 - [Roadmap](./roadmap.md)
 - [Changelog](./CHANGELOG.md)
 - [Contact](./CONTACT.md)
 
-## 📂 What I Build
+## What I build
 
-- 🔧 Web tools & developer utilities  
-- 📦 Digital assets & templates  
-- 📊 SEO tools & marketing resources  
-- 🤖 AI-powered tools and prompts  
-- ⚡ Automation systems  
+- Web tools & developer utilities  
+- Digital assets & templates  
+- SEO tools & marketing resources  
+- AI-powered tools and prompts  
+- Automation systems  
 
 ---
 
-## 📈 Current Focus
+## Current focus
 
 - Scaling **WikiMint** into a powerful tools ecosystem  
 - Building high-performance web utilities  
@@ -81,7 +81,7 @@ A growing platform offering:
 
 ---
 
-## 🌍 Connect With Me
+## Connect with me
 
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/selvaklnc)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/selvakumaran-krishnan)
@@ -90,7 +90,7 @@ A growing platform offering:
 
 ---
 
-## 🧠 Interests
+## Interests
 
 - Developer tools & productivity  
 - Web performance & optimization  
@@ -100,23 +100,23 @@ A growing platform offering:
 
 ---
 
-## ⭐ Support My Work
+## Support my work
 
 If you find my projects useful:
 
-- ⭐ Star the repositories  
-- 🔁 Share with others  
-- 🤝 Contribute to projects  
+- Star the repositories  
+- Share with others  
+- Contribute to projects  
 
 ---
 
-## 🔥 Quote I Follow
+## Quote I follow
 
 > Build tools that solve real problems. Growth follows value.
 
 ---
 
-## GitHub Stats
+## GitHub stats
 <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=832956" target="_blank" style="display: block" align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=832956&image_size=auto&color_scheme=dark" width="771" height="auto">
