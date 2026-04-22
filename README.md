@@ -21,8 +21,6 @@ I'm a **Full Stack Developer, Entrepreneur, Digital Marketing Specialist, and SE
 
 ### Wikimint — Free developer tools & digital assets
 
-![Wikimint Banner](/assets/selvakumaran-krishnan-full-stack-developer.webp)
-
 A growing platform offering:
 
 - Developer tools (CSS/JS minifiers, formatters)
